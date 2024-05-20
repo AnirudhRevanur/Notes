@@ -184,3 +184,162 @@
 - Immutable
 - **_Centralised_** &rarr; One node/third party maintains it
 - **_Public_** &rarr; Every node has a copy of it
+
+### Public Ledger
+
+- Organizes into a long chain of blocks of information
+- Distributed ledger is a database that is consensually shared and synced across multiple sites, institutions, geographies, and is accessible by multiple people
+- Distributed ledger stands in contrast to a centralised ledger, which most companies use
+
+### Features
+
+- Synchronized and accessible across different systems
+- Replace the need for a central authority
+- Cyber attacks and financial fraud are reduced
+
+### Transaction
+
+1. Current condition
+2. Transaction happens
+3. Approval of transaction chain
+
+### Advantages
+
+- Reduce operational inefficiencies
+- Speed up the amount of time a transaction takes to complete
+- Redice overall costs for entities
+- Easy flow of information
+- Easy to follow for accountants
+- Remove the possibility of fraud occuring on the financial books of a company
+
+## Peer-to-Peer
+
+- Decentralised network communications model
+- Consists of a group of devices that collectively store and share files
+- Communication is done without any central administrator
+
+### Role of P2P
+
+- P2P is a technology utilizing concept of decentralization
+- Allows all cryptocurrencies to be shared around the world
+- Decentralized ledger tracking one or more digital assets
+- Decentralized network, computers are connected in some way, each maintains a copy of the ledger, compares it to other devices to ensure data is accurate
+
+### Pros
+
+- Highly available
+- Greater security
+- No third party trys
+- Cannot be censored by central authorities
+- Virtually immune to DoS attacks
+- P2P when paired with majority consensus gives blockchains a relatively high degree of resistance to malicious activites
+
+### Cons
+
+- Need high compute power
+- Reduces efficiency
+- Main hindrances in terms of scalability and mass adoption
+
+## Types of Blockchains
+
+### Public
+
+- Permissionless blockchains
+- Anyone can join the network, read and write to ledger
+- Any user can develop and add smart contracts
+- Complete decentralization
+- Users are anonymous in the network
+- Issue of digital currency
+
+#### Advantages
+
+- More secure
+- More Decentralised
+- Self governed
+- User empowerment
+
+#### Disadvantages
+
+- High transaction time (~10 minutes for Bitcoin)
+- High compute power
+- Less privacy
+- Identity unrecognized
+
+### Private
+
+- Permissioned Blockchain Network
+- Controlled by a single organization
+- Do not let any user to freely join
+- User's identity is known to everyone
+- Transactions are visible to only those who have permission
+- Maintains an access control mechanism
+- Not fully decentralized
+- Organizations that want control over their data
+- Hyperledger Fabric and Corda
+
+#### Advantages
+
+- Full privacy
+- More efficient
+- Resource saving
+- Regulated network
+- Empowering organization
+
+#### Disadvantages
+
+- Partial decentralization
+
+#### Companies
+
+- Walmart has developed on Hyperledger Fabric
+- Comcast has partnered and launched Blockgraph
+- BurstIQ's big data blockchain helps patients and doctors securely transger medical information
+- Spotify acquired Mediachain
+
+### Consortium
+
+- Also called as Federated Blockchain
+- Permissioned Blockchain
+- Governed by a group of organizations
+- More decentralized than private network
+- Setting up is pain
+- No superior access
+- Identity is known
+
+#### Advantages
+
+- Saves cost
+- Risk sharing
+- Gradual mass adoption
+
+### Hybrid Blockchain
+
+- Blend of public and private blockchain
+- Provide controlled access and freedom at the same time
+- Participant has decision authority
+- Auth is required for entry in the ecosystem
+- Anonymous entity
+- Supply chain, banking, Government process
+- Ex: Dragonchain
+
+#### Advantages
+
+- Offers Privacy
+- Good scalability
+- Rule modification allowed
+
+## Block Structure
+
+- Block Header is used to identify a particular block on an entire blockchain
+- Header contains:
+  - Version
+  - Time
+  - Difficulty
+  - Prev Hash
+  - Nonce
+  - Merkle Root
+
+## Transaction
+
+- When two parties exchange something
+- Better and safer ways to transcat with one another
