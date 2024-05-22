@@ -1,0 +1,22 @@
+# Web Security
+
+- Primary function of a web server is to deliver web content
+- Web server is stateless
+- Cookies are used to save info client side
+- Set-Cookie allows to set a new cookie
+- Cookies can track users
+- Use InPrivate Mode when browsing
+- Block third party cookies => Used for advertisements
+- Sandbox JavaScript
+- Communication Mechanisms
+  - Normal HTTP
+  - Ajax
+  - WebSocket
+- Ajax => Asynchronous JavaScript and XML
+- Ajax is slowly being replaced by Fetch API
+- Only responses from the same web server can be given to the callback function, if it is not same, then Cross Origin Request Block
+- Request sent, Response came back, but Browser blocks Ajax from accessing response
+- Cross Origin compromise privacy
+- CORS was created => Cross Origin Resource Sharing
+- Ajax uses HTTP => Half duplex
+- WebSocket is full duplex
